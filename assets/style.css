@@ -46,6 +46,10 @@ body {
 	height: auto;
 }
 
+#carouselExampleIndicators {
+	background-color: #000;
+}
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
